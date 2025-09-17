@@ -24,7 +24,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ## 📂 Project Structure
 calculator/
-│── index.html # Main structure of the calculator
+│── Calculator.html # Main structure of the calculator
 │── style.css # Styling and layout
 │── script.js # Calculator logic
 
